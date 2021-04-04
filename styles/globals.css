@@ -8,9 +8,25 @@ body {
 
 a {
   color: inherit;
-  text-decoration: none;
 }
 
 * {
   box-sizing: border-box;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.margin-top-bottom-1 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.flex-justify-around {
+  justify-content: space-around;
 }
